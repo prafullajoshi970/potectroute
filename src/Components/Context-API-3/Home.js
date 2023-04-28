@@ -1,10 +1,10 @@
 import React from "react";
-import Nav from "./Nav"
+
 
 function Home(props) {
   return (
     <div style={{ padding: "30px" }}>
-      <Nav></Nav>
+
       <h2 style={{ color: "green" }}>Home Component</h2>
       <p>
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime magni

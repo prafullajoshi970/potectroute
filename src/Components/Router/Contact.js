@@ -1,9 +1,9 @@
 import React from "react";
-import Nav from "../Context-API-3/Nav";
+
 function Contact(props) {
   return (
     <div style={{ padding: "30px" }}>
-      <Nav></Nav>
+   
       <h2 style={{ color: "coral" }}>Contact Component</h2>
       <p>
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur
